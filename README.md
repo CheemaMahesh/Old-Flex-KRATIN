@@ -1,5 +1,5 @@
 <h1>Senior-Flex</h1>
-<a href="https://senior-flex-kratin.vercel.app/"><h2>Hosted Link</h2></a>
+<p>[HostedLink](https://senior-flex-kratin.vercel.app/)</p>
 <h1>Folder Structures</h1>
 Senior-Flex/ <br/>
 │<br/>
@@ -44,6 +44,55 @@ Senior-Flex/ <br/>
 <hr/>
 <h2>Info</h2>
 <p>
-  
+  <h3>Elderly Exercise Video Library App</h3><br/>
+    This React-based web application aims to assist individuals aged 65 and above by providing a curated collection of exercise videos tailored to address various health issues commonly faced by older adults, such as knee pain, back pain, and other related problems. The app is designed to offer a user-friendly interface for browsing and accessing exercise videos that can aid in improving mobility, reducing discomfort, and enhancing overall well-being.<br/>
 </p>
+    <h4>Features</h4>
 
+ <ul>
+    <li><b>Categorized Exercise Videos:</b>  The app categorizes exercise videos based on specific health concerns, enabling easy navigation and selection</li>
+        <li><b>Targeted Exercise Recommendations: </b>Curated video playlists designed to address various health issues commonly experienced by the elderly, including knee pain, back pain, and more.</li>
+                <li><b>Embedded YouTube Videos:</b> Utilizes embedded YouTube video players to provide a seamless viewing experience within the application.</li>
+    </ul>
+    <br/>
+    <h1>Technologies Used</h1>
+    <ul>
+    <li><b>ReactJS: </b>The frontend of the application is built using ReactJS, offering a robust and efficient user interface.</li>
+        <li><b>HTML & CSS: </b>  Standard web technologies have been used for layout and styling.</li>
+    </ul>
+
+<ol>
+<h2>How to Use
+</h2>
+<li>
+<h4><b>Installation:
+</b></h4></li>
+Clone the repository to your local machine.<br/>
+Run npm install to install the necessary dependencies.<br/>
+
+<li>
+<h4><b>Run the Application:</b></h4>
+</li>
+Execute npm start to launch the application.<br/>
+Access the app through the provided URL.<br/>
+
+<li>
+<h4><b>Browse and Watch Exercise Videos:</b></h4>
+</li>
+Navigate through the categories or health concerns listed.<br/>
+Select a video to view exercises tailored to address specific issues.<br/>
+
+</ol>
+
+<br/>
+<ul>
+<h4>Future Enhancements
+</h4>
+<li>Incorporating user authentication and personalized recommendations.
+</li>
+<li>Adding additional categories and expanding the video library.
+</li>
+<li>Implementing interactive features for user feedback and engagement.
+</li>
+
+</ul>
