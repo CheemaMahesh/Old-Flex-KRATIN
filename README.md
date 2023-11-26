@@ -3,7 +3,7 @@
 <br/>
 <div>
   <h1>Home Page</h1>
-  <img src="![Screenshot 2023-11-26 22 49 15](https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/0e708e9f-5c9a-4899-9a50-f0af23c56e05)
+  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/0e708e9f-5c9a-4899-9a50-f0af23c56e05
 ">
 </div>
 
