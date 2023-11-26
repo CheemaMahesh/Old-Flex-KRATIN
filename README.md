@@ -1,11 +1,27 @@
 <h1>Senior-Flex</h1>
-<p>[HostedLink](https://senior-flex-kratin.vercel.app/)</p>
+<p>[HostedLink Click Here](https://senior-flex-kratin.vercel.app/)</p>
 <br/>
-<div>
+
   <h1>Home Page</h1>
-  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/0e708e9f-5c9a-4899-9a50-f0af23c56e05
-">
-</div>
+  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/0e708e9f-5c9a-4899-9a50-f0af23c56e05">
+
+<br/>
+<h1>PlayList Page</h1>
+  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/7be345c3-837f-4c00-bfd5-68a86d171b01">
+  <br/>
+  <h1>PlayList Page 2</h1>
+  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/2fc8b865-9cee-4fdd-8d7f-e7e7693dafa7">
+  <br/>
+  
+  <h1>Contact  Page</h1>
+  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/6643f1a8-c8a6-4a6e-a2c1-e03f10ae113e">
+  <br/>
+  
+  <h1>Contact Page</h1>
+  <img src="https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/fd71fc4d-a828-4894-a5dc-b1763487dca4">
+  <br/>
+  
+  
 
 <h1>Folder Structures</h1>
 Senior-Flex/ <br/>
