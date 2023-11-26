@@ -1,58 +1,56 @@
-.Navbar{
-    height:10vh;
-    width: 100vw;
-    background-color: white;
-    /* box-shadow: 5px 5px 30px 5px black; */
-    /* border-bottom: 5px solid rgba(7, 6, 6, 0.3); */
+.Navbar {
+    height: 60px; /* Example height */
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    background-color: #f0ffff;
     display: flex;
     justify-content: space-around;
     align-items: center;
-}
-.logoDiv{
-        height: 100%;
-        width: 20%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-}
-.logo{
-    background-image: url('../Assets/Logo.png');
-    height:100%;
-    width: 5vw;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    /* background-color: rgb(255, 251, 0); */
-    background-color: rgb(209, 214, 161);
-    border-radius: 50%;
-    box-shadow: 2px 2px 15px 5px black;
-}
+    
+  }
+  
+  .logoDiv {
+    margin-top: 5vh;
 
-.MenuDiv{
-    height:100%;
+    height: 100%;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 12vh;
+    width: 20vw;
+    /* max-width: 100%; */
+    object-fit: contain;
+    background-color: #f0ffff;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .MenuDiv {
     width: 40%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-}
-.Mv, .Mp, .Ml{
-    /* height:100%; */
-    width:33%;
+  }
+  
+  .MenuItem {
+    width: 33%;
     font-weight: bold;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
     cursor: pointer;
-    text-decoration: none;
-color:rgb(17, 18, 19);
-}
-.AuthDiv{
-    height:100%;
+    color: rgb(17, 18, 19);
+  }
+  
+  .AuthDiv {
     width: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+  }
 .AuthButton {
     padding: 8px 16px;
     font-size: 16px;

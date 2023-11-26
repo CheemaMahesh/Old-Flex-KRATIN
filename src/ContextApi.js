@@ -1,24 +1,32 @@
-import { useState,useEffect, createContext, useContext } from "react";
+import { useState,useEffect, createContext, useContext } from 'react';
 
-import {data} from './Componets/Assets/Data'
-const Con=createContext();
 
-function useValue(){
-    const value=useContext(Con);
-    return value;
+
+// import { data } from '../src/Components/Assets/Data';
+import {data} from '../src/Componets/Assets/Data'
+
+const Con = createContext();
+
+function useValue() {
+  const value = useContext(Con);
+  return value;
 }
 
+function ContextApi({ children }) {
+  const [pageCount, setPageCount] = useState(0);
 
-function ContextApi({children}){
-    
-    return(
-        <Con.Provider value={{
-            data
-        }}>
-            {children}
-        </Con.Provider>
-    )
+  const handleClick = (e = 0) => {
+    setPageCount(e);
+   
+  };
+  
+
+  return (
+    <Con.Provider value={{ data, pageCount, handleClick,}}>
+      {children}
+    </Con.Provider>
+  );
 }
 
-export {useValue};
+export { useValue };
 export default ContextApi;
