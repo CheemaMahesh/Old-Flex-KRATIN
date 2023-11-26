@@ -1,5 +1,12 @@
 <h1>Senior-Flex</h1>
 <p>[HostedLink](https://senior-flex-kratin.vercel.app/)</p>
+<br/>
+<div>
+  <h1>Home Page</h1>
+  <img src="![Screenshot 2023-11-26 22 49 15](https://github.com/CheemaMahesh/Old-Flex-KRATIN/assets/124231713/0e708e9f-5c9a-4899-9a50-f0af23c56e05)
+">
+</div>
+
 <h1>Folder Structures</h1>
 Senior-Flex/ <br/>
 │<br/>
@@ -96,3 +103,4 @@ Select a video to view exercises tailored to address specific issues.<br/>
 </li>
 
 </ul>
+<br/
