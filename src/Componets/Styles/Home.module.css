@@ -7,14 +7,18 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
 .fitness{
-    position: absolute;
+    /* position: absolute; */
     height:30%;
     width: 40%;
     /* background-color: green; */
-    margin-top: 25vh;
-    margin-left:8vw ;
+    /* margin-top: 25vh;
+    margin-left:8vw ; */
 }
 .top{
     font-size: 3rem;
